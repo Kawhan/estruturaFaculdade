@@ -1,0 +1,3 @@
+uso:
+
+java BSTree Entrada-02.in Procurando.txt
