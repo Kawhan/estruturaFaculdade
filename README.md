@@ -1,3 +1,3 @@
 # estruturaFaculdade
 
-# Atividades algorimo e estrutura de dados UFPB
+# Atividades Algoritmo e estrutura de dados UFPB
